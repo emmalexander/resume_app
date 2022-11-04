@@ -1,0 +1,22 @@
+{
+    "language": "Español",
+    "socials": "Social",
+    "developer": "Desarrollador",
+    "careerHeading": "¿Qué puedo hacer por ti?",
+    "canDo1": "Creación de interfaces de usuario (UI) de aplicaciones para proporcionar funcionalidad móvil con Flutter.",
+    "canDo2": "Manténgase al tanto del vocabulario, los conceptos y las mejores prácticas para codificar aplicaciones móviles discutiendo los requisitos del cliente y la solución propuesta con colegas.",
+    "canDo3": "Adaptar y reorientar aplicaciones online actuales para aplicaciones móviles.",
+    "canDo4": "Experiencia con frameworks MVC, diseño y desarrollo de API REST/RPC.",
+    "canDo5": "Experiencia comunicándose con usuarios, otros equipos técnicos y administración para recopilar requisitos, describir características de productos de software y diseños técnicos.",
+    "canDo6": "Capacidad para mover un proyecto desde los requisitos de alcance hasta el lanzamiento real del proyecto.",
+    "education": "Educación",
+    "higherEducation": "Licenciado en Ingeniería por la Universidad de",
+    "date1": "Octubre 2015 - Septiembre 2021",
+    "date2": "Octubre 2010 - Mayo 2015",
+    "date3": "Octubre 2005 - Septiembre 2010",
+    "themeLight": "Luz",
+    "themeDark": "Oscuro",
+    "themeSystem": "Sistema",
+    "personal": "Personal",
+    "career": "Carrera profesional"
+}
