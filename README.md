@@ -10,6 +10,8 @@ This app supports four languages (English, German, French and Spanish). The lang
 
 The inspiration for the UI design is gotten from [Ardian Hadibiguna](https://dribbble.com/hadibiguna) and [Mickael Guillaume](https://dribbble.com/mickaeldll)
 
+[Here](https://drive.google.com/file/d/1Z7GNojPnwroe6gR1RNCWJdndDxvkCa3T/view?usp=sharing) is the link to the apk.
+
 Packages used in this project:
 
 - [Provider Package](https://pub.dev/packages/provider): For State Management.
